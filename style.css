@@ -352,3 +352,52 @@ main{
   justify-content: space-between;
   padding: 1.25rem;
 }
+
+
+.exttt{
+  font-size: 16px;
+  line-height: 1.2;
+}
+.thing-no{
+  font-size: 0.688rem;
+  line-height: 1.5;
+}
+.your-card-two{
+  display: flex;
+  align-items: center;
+}
+
+.circle-c-node{
+  width: 32px ;
+  height: 32px ;
+  border: 1px solid #00000063;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ext-two{
+  font-size: 14px;
+  font-weight: 400;
+  color: #201f1f;
+  letter-spacing: 0.054em;
+  line-height: 1.2;
+}
+
+.meow{
+  width: 13rem;
+  height: 2rem;
+  border: 1px solid #00000063;
+  border-radius: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #202020;
+}
+
+.image{
+  background: url(piccard1.jpg);
+  background-size: contain;
+  height: 90vh;
+  background-repeat: no-repeat;
+}
