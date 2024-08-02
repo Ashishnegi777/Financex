@@ -454,3 +454,8 @@ main{
   filter: blur(0.7px);
   color: var(--gray);
 }
+
+
+.open-account,.create-account,.meow,.circle-c-node{
+  cursor:pointer ;
+}
